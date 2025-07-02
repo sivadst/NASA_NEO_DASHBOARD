@@ -25,4 +25,4 @@ This dashboard enables real-time asteroid tracking and analytical querying, powe
 
 ---
 
-🚀 *Made with obsessive attention to detail by* **Selvasiva S.** 👨‍🚀  
+🧠 Built with clarity and curiosity — Selvasiva S.
